@@ -28,3 +28,6 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+- Keep the single-player game under `src/game/`, with pure combat and movement rules in `sim/` and the R3F scene handling per-frame play, so game rules can be tested without rendering.
+- Set `data-scene-ready="true"` only after the field's character assets load, so visual verification starts from a playable scene rather than a blank canvas.

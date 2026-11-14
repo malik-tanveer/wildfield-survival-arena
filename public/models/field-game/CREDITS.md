@@ -1,0 +1,2 @@
+Kenney, Mini Characters 2.0 (soldier and raider characters; CC0): https://opengameart.org/content/mini-character-1
+Kenney, Mini Characters 2.0 (shooter weapon; CC0): https://opengameart.org/content/mini-character-1
